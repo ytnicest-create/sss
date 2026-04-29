@@ -14,7 +14,7 @@ from pyrubi.types import Message
 # -----------------------------
 # تنظیمات
 # -----------------------------
-client = Client("x")
+client = Client("1")
 
 loop = asyncio.new_event_loop()
 asyncio.set_event_loop(loop)
