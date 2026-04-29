@@ -1,4 +1,3 @@
-python-telegram-bot
+pyrubi
 yt-dlp
-flask
-httpx
+requests
