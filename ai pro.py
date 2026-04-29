@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # توکن واقعی ربات و API key
-BOT_TOKEN = "7835872070:AAGsqZ7bdPK4nv5Us5R3SfX3Px6R-yq189c"
+BOT_TOKEN = "8776420786:AAHZODfTx67hNRrbATR5KqWdFKNgE5Q_9Q0"
 GROQCLOUD_API_KEY = "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"
 GROQCLOUD_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
